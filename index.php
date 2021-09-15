@@ -37,6 +37,11 @@
                             Herança
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=classe_objeto&file=visibilidade">
+                            Visibilidade
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="modulo vermelho-escuro">
