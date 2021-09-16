@@ -23,7 +23,7 @@ class A {
 
 $objetoA = new A();
 $objetoA->mostrarA();
-$objetoA->mostraStaticA();
+$objetoA->mostraStaticA(); //não é a forma adequada para acessar o metodo da classe.
 
-echo A::$static . "<br>";
-A::mostraStaticA();
+echo A::$static . "<br>"; //Forma adequada para acessar o atributo da classe.
+A::mostraStaticA(); //Forma adequada para acessar o método da classe.
