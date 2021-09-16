@@ -52,6 +52,11 @@
                             Interface
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=classe_objeto&file=abstract">
+                            Classe Abstrata
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="modulo vermelho-escuro">
