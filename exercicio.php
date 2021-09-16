@@ -13,7 +13,7 @@
         <h2>Visualização do Exercício</h2>
     </header>
     <nav class="navegacao">
-        <a href=<?= "/curso-php/{$_GET['dir']}/{$_GET['file']}.php" ?> 
+        <a href=<?= "/desenvolvimentoWeb/{$_GET['dir']}/{$_GET['file']}.php" ?> 
             class="verde">Sem formatação</a>
         <a href="index.php" class="vermelho">Voltar</a>
     </nav>
