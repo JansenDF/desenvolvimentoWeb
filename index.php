@@ -72,6 +72,11 @@
                             Traits#01
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=classe_objeto&file=traits2">
+                            Traits#02
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="modulo vermelho-escuro">
