@@ -57,6 +57,11 @@
                             Classe Abstrata
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=classe_objeto&file=desafio_erros">
+                            Desafio 7 Erros
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="modulo vermelho-escuro">
