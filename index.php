@@ -42,6 +42,11 @@
                             Include Once
                         </a>
                     </li>
+                    <li>
+                        <a href="exercicio.php?dir=includes&file=include_objeto">
+                            Desafio Include de Classes e herança
+                        </a>
+                    </li>
                 </ul>
             </div>
             <div class="modulo azul-escuro">
