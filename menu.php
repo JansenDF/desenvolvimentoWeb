@@ -12,6 +12,11 @@
                     Sub_Namespace
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=namespace&file=use_as">
+                    Use/AS
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo roxo-escuro">
