@@ -7,6 +7,11 @@
                     Exemplo Básico
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=namespace&file=sub_namespace">
+                    Sub_Namespace
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo roxo-escuro">
